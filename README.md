@@ -15,4 +15,4 @@
   >>从本地agent库选取  
   
   H.sample screenshot  
-  >>![](https://github.com/bamboo-pan/job-analysis/blob/master/sample.PNG)
+  >>![](https://github.com/bamboo-pan/job-analyzer/blob/master/sample.PNG)
