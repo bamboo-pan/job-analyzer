@@ -12,4 +12,7 @@
   >>我自用的是阿里云API创建虚拟机，创建代理服务器,用完释放虚拟机，感兴趣可自行研究
   
   G.agent为随机agent  
-  >>从本地agent库选取
+  >>从本地agent库选取  
+  
+  H.sample screenshot  
+  >![](https://github.com/bamboo-pan/job-analysis/blob/master/sample.PNG)
